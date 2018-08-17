@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "moak",
+    "description": "",
+    "home_page_url": "https://slaapme.github.io/moak_loriane",
+    "feed_url": "https://slaapme.github.io/moak_loriane/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Loriane Dutilleul"
+    },
+    "items": [
+        {
+            "id": "https://slaapme.github.io/moak_loriane/Herbalisme/",
+            "url": "https://slaapme.github.io/moak_loriane/Herbalisme/",
+            "title": "Herbalisme",
+            "content_html": "<p>Loriane prépare elle-même ses huiles de massage mais également des produits complémentaire comme les sels de bains ou des potions santé.</p>\n<p>Elle collabore avec des naturopathes et va directement chercher ses produits dans la nature, proche de Lyon et Grenoble pour les herbes de montagne par exemple.</p>\n<p>Comment ça marche ?</p>\n<p>Comment commander des produits ?</p>\n<p> </p>",
+            "image": "https://slaapme.github.io/moak_loriane/media/posts/2/herbalisme.jpg",
+            "author": {
+                "name": "Loriane Dutilleul"
+            },
+            "tags": [
+                   "herbalisme"
+            ],
+            "date_published": "2018-08-17T16:21:29+02:00",
+            "date_modified": "2018-08-17T16:21:29+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/moak_loriane/massages/",
+            "url": "https://slaapme.github.io/moak_loriane/massages/",
+            "title": "Massages &amp; soins personnalisés",
+            "content_html": "<p>Avec Moak, Loriane propose un accompagnement de soin &amp; bien-être totalement personnalisé : de la préparation des huiles de soins aux techniques de massage, tout est prévu par rapport à votre constitution et vos besoins sur le moment.</p>\n<p>Comment ça marche ?</p>\n<p>Quels sont les techniques de massages possible ?</p>",
+            "image": "https://slaapme.github.io/moak_loriane/media/posts/1/massage.jpg",
+            "author": {
+                "name": "Loriane Dutilleul"
+            },
+            "tags": [
+                   "massage"
+            ],
+            "date_published": "2018-08-17T16:19:59+02:00",
+            "date_modified": "2018-08-17T16:19:59+02:00"
+        }
+    ]
+}
