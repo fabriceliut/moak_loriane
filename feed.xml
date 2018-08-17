@@ -3,51 +3,90 @@
     <title>moak</title>
     <link href="https://slaapme.github.io/moak_loriane/feed.xml" rel="self" />
     <link href="https://slaapme.github.io/moak_loriane" />
-    <updated>2018-08-17T16:37:42+02:00</updated>
+    <updated>2018-08-17T18:41:05+02:00</updated>
     <author>
         <name>Loriane Dutilleul</name>
     </author>
     <id>https://slaapme.github.io/moak_loriane</id>
 
     <entry>
+        <title>Massage</title>
+        <author>
+            <name>Loriane Dutilleul</name>
+        </author>
+        <link href="https://slaapme.github.io/moak_loriane/massage/"/>
+        <id>https://slaapme.github.io/moak_loriane/massage/</id>
+            <category term="Massage"/>
+
+        <updated>2018-08-17T18:24:39+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/moak_loriane/media/posts/1/IMG_4772.JPG" alt="" />
+                <p>Avec Moak, Loriane propose un accompagnement de soin &amp; bien-être totalement personnalisé : de la préparation des huiles de soins aux techniques de massage, tout est prévu par rapport à votre constitution et vos besoins sur le moment.</p>
+<p><img class="post__image--center" src="https://slaapme.github.io/moak_loriane/media/posts/1/IMG_4755.JPG" width="1600" height="1067"></p>
+<p>Comment ça marche ?</p>
+<p>Quels sont les techniques de massages possible ?</p>
+<p><img class="post__image--center" src="https://slaapme.github.io/moak_loriane/media/posts/1/IMG_4769.JPG" width="1600" height="1067"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Soins</title>
+        <author>
+            <name>Loriane Dutilleul</name>
+        </author>
+        <link href="https://slaapme.github.io/moak_loriane/Soins/"/>
+        <id>https://slaapme.github.io/moak_loriane/Soins/</id>
+            <category term="Soins"/>
+
+        <updated>2018-08-17T18:24:46+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://slaapme.github.io/moak_loriane/media/posts/3/IMG_4776.JPG" alt="" />
+                Tout le contenu autour des soins que Loriane propose avec Moak.
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Herbalisme</title>
         <author>
             <name>Loriane Dutilleul</name>
         </author>
-        <link href="https://slaapme.github.io/moak_loriane/Herbalisme/"/>
-        <id>https://slaapme.github.io/moak_loriane/Herbalisme/</id>
-            <category term="herbalisme"/>
+        <link href="https://slaapme.github.io/moak_loriane/herbalisme/"/>
+        <id>https://slaapme.github.io/moak_loriane/herbalisme/</id>
+            <category term="Herbalisme"/>
 
-        <updated>2018-08-17T16:21:29+02:00</updated>
+        <updated>2018-08-17T18:24:55+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://slaapme.github.io/moak_loriane/media/posts/2/herbalisme.jpg" alt="" />
+                    <img src="https://slaapme.github.io/moak_loriane/media/posts/2/IMG_4775.JPG" alt="" />
                 <p>Loriane prépare elle-même ses huiles de massage mais également des produits complémentaire comme les sels de bains ou des potions santé.</p>
 <p>Elle collabore avec des naturopathes et va directement chercher ses produits dans la nature, proche de Lyon et Grenoble pour les herbes de montagne par exemple.</p>
 <p>Comment ça marche ?</p>
+<p><img class="post__image--center" src="https://slaapme.github.io/moak_loriane/media/posts/2/IMG_4777.JPG" alt="" width="1600" height="1200"></p>
 <p>Comment commander des produits ?</p>
+<p><img class="post__image--center" src="https://slaapme.github.io/moak_loriane/media/posts/2/IMG_4774.JPG" alt="" width="1600" height="1200"></p>
 <p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Massages &amp; soins personnalisés</title>
+        <title>Contact</title>
         <author>
             <name>Loriane Dutilleul</name>
         </author>
-        <link href="https://slaapme.github.io/moak_loriane/massages/"/>
-        <id>https://slaapme.github.io/moak_loriane/massages/</id>
-            <category term="massage"/>
+        <link href="https://slaapme.github.io/moak_loriane/Contact/"/>
+        <id>https://slaapme.github.io/moak_loriane/Contact/</id>
 
-        <updated>2018-08-17T16:19:59+02:00</updated>
+        <updated>2018-08-17T18:34:59+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://slaapme.github.io/moak_loriane/media/posts/1/massage.jpg" alt="" />
-                <p>Avec Moak, Loriane propose un accompagnement de soin &amp; bien-être totalement personnalisé : de la préparation des huiles de soins aux techniques de massage, tout est prévu par rapport à votre constitution et vos besoins sur le moment.</p>
-<p>Comment ça marche ?</p>
-<p>Quels sont les techniques de massages possible ?</p>
+                    <img src="https://slaapme.github.io/moak_loriane/media/posts/4/IMG_4774.JPG" alt="" />
+                La page contact pour contacter loriane et retrouver ses réseaux sociaux.
             ]]>
         </content>
     </entry>

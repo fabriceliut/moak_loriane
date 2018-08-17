@@ -10,34 +10,63 @@
     },
     "items": [
         {
-            "id": "https://slaapme.github.io/moak_loriane/Herbalisme/",
-            "url": "https://slaapme.github.io/moak_loriane/Herbalisme/",
-            "title": "Herbalisme",
-            "content_html": "<p>Loriane prépare elle-même ses huiles de massage mais également des produits complémentaire comme les sels de bains ou des potions santé.</p>\n<p>Elle collabore avec des naturopathes et va directement chercher ses produits dans la nature, proche de Lyon et Grenoble pour les herbes de montagne par exemple.</p>\n<p>Comment ça marche ?</p>\n<p>Comment commander des produits ?</p>\n<p> </p>",
-            "image": "https://slaapme.github.io/moak_loriane/media/posts/2/herbalisme.jpg",
+            "id": "https://slaapme.github.io/moak_loriane/massage/",
+            "url": "https://slaapme.github.io/moak_loriane/massage/",
+            "title": "Massage",
+            "content_html": "<p>Avec Moak, Loriane propose un accompagnement de soin &amp; bien-être totalement personnalisé : de la préparation des huiles de soins aux techniques de massage, tout est prévu par rapport à votre constitution et vos besoins sur le moment.</p>\n<p><img class=\"post__image--center\" src=\"https://slaapme.github.io/moak_loriane/media/posts/1/IMG_4755.JPG\" width=\"1600\" height=\"1067\"></p>\n<p>Comment ça marche ?</p>\n<p>Quels sont les techniques de massages possible ?</p>\n<p><img class=\"post__image--center\" src=\"https://slaapme.github.io/moak_loriane/media/posts/1/IMG_4769.JPG\" width=\"1600\" height=\"1067\"></p>",
+            "image": "https://slaapme.github.io/moak_loriane/media/posts/1/IMG_4772.JPG",
             "author": {
                 "name": "Loriane Dutilleul"
             },
             "tags": [
-                   "herbalisme"
+                   "Massage"
             ],
-            "date_published": "2018-08-17T16:21:29+02:00",
-            "date_modified": "2018-08-17T16:21:29+02:00"
+            "date_published": "2018-08-15T16:19:00+02:00",
+            "date_modified": "2018-08-17T18:24:39+02:00"
         },
         {
-            "id": "https://slaapme.github.io/moak_loriane/massages/",
-            "url": "https://slaapme.github.io/moak_loriane/massages/",
-            "title": "Massages &amp; soins personnalisés",
-            "content_html": "<p>Avec Moak, Loriane propose un accompagnement de soin &amp; bien-être totalement personnalisé : de la préparation des huiles de soins aux techniques de massage, tout est prévu par rapport à votre constitution et vos besoins sur le moment.</p>\n<p>Comment ça marche ?</p>\n<p>Quels sont les techniques de massages possible ?</p>",
-            "image": "https://slaapme.github.io/moak_loriane/media/posts/1/massage.jpg",
+            "id": "https://slaapme.github.io/moak_loriane/Soins/",
+            "url": "https://slaapme.github.io/moak_loriane/Soins/",
+            "title": "Soins",
+            "content_html": "Tout le contenu autour des soins que Loriane propose avec Moak.",
+            "image": "https://slaapme.github.io/moak_loriane/media/posts/3/IMG_4776.JPG",
             "author": {
                 "name": "Loriane Dutilleul"
             },
             "tags": [
-                   "massage"
+                   "Soins"
             ],
-            "date_published": "2018-08-17T16:19:59+02:00",
-            "date_modified": "2018-08-17T16:19:59+02:00"
+            "date_published": "2018-08-14T18:21:00+02:00",
+            "date_modified": "2018-08-17T18:24:46+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/moak_loriane/herbalisme/",
+            "url": "https://slaapme.github.io/moak_loriane/herbalisme/",
+            "title": "Herbalisme",
+            "content_html": "<p>Loriane prépare elle-même ses huiles de massage mais également des produits complémentaire comme les sels de bains ou des potions santé.</p>\n<p>Elle collabore avec des naturopathes et va directement chercher ses produits dans la nature, proche de Lyon et Grenoble pour les herbes de montagne par exemple.</p>\n<p>Comment ça marche ?</p>\n<p><img class=\"post__image--center\" src=\"https://slaapme.github.io/moak_loriane/media/posts/2/IMG_4777.JPG\" alt=\"\" width=\"1600\" height=\"1200\"></p>\n<p>Comment commander des produits ?</p>\n<p><img class=\"post__image--center\" src=\"https://slaapme.github.io/moak_loriane/media/posts/2/IMG_4774.JPG\" alt=\"\" width=\"1600\" height=\"1200\"></p>\n<p> </p>",
+            "image": "https://slaapme.github.io/moak_loriane/media/posts/2/IMG_4775.JPG",
+            "author": {
+                "name": "Loriane Dutilleul"
+            },
+            "tags": [
+                   "Herbalisme"
+            ],
+            "date_published": "2018-08-13T16:21:00+02:00",
+            "date_modified": "2018-08-17T18:24:55+02:00"
+        },
+        {
+            "id": "https://slaapme.github.io/moak_loriane/Contact/",
+            "url": "https://slaapme.github.io/moak_loriane/Contact/",
+            "title": "Contact",
+            "content_html": "La page contact pour contacter loriane et retrouver ses réseaux sociaux.",
+            "image": "https://slaapme.github.io/moak_loriane/media/posts/4/IMG_4774.JPG",
+            "author": {
+                "name": "Loriane Dutilleul"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-09T18:33:00+02:00",
+            "date_modified": "2018-08-17T18:34:59+02:00"
         }
     ]
 }
